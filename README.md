@@ -85,3 +85,5 @@ Large Language Models are like computers that can understand and talk like peopl
 Generative AI is a tool that can make things that look real. It is a part of modern technology.. We have to be careful when we use it because it can be expensive and cause problems if we are not careful, with Generative AI.
 
 # Result
+Generative AI enables machines to create realistic content by learning patterns from large datasets, with transformers forming the core architecture behind modern systems.
+Large Language Models, when scaled effectively, achieve high performance and versatility but introduce challenges related to cost, bias, and ethical use.
