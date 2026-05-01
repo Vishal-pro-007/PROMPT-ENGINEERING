@@ -58,6 +58,30 @@ Step 7: Finalize and Export
 
 
 # Output
+Report: Generative AI and Large Language Models
 
+1. Basic Ideas of Generative AI
+
+Generative AI is a kind of intelligence that makes new things like text or pictures by looking at old data. It is different from models that just look at data or put it into groups. Generative AI actually makes things that look like the data it learned from. It does this by understanding how things are related and how they fit together.
+
+2. How Generative AI Works (Transformers)
+
+The transformer is the part of modern Generative AI. It looks at the information it gets and tries to understand how the different parts are related. This helps it know what is important and what is not. Transformers are good at understanding things and making things.
+
+3. How Generative AI is Made and What it is Used For
+
+To make a Generative AI system you need to get some data clean it up and then teach the model what it means. After that the model can make things based on what you tell it.
+
+Generative AI is used for things like making content talking to people online making code and creating pictures. It is also used in healthcare and education.
+
+4. What Happens When We Make LLMs Bigger
+
+When we make LLMs bigger they can do things and do them better. They can even. Learn from just a few examples.. Making them bigger also costs more money and can cause problems if we are not careful.
+
+5. Large Language Models and How They are Made
+
+Large Language Models are like computers that can understand and talk like people. They are made by collecting a lot of text data and using it to teach the model about language. Then we make the model better and better so it can be used in things like chat systems and tools that help us write.
+
+Generative AI is a tool that can make things that look real. It is a part of modern technology.. We have to be careful when we use it because it can be expensive and cause problems if we are not careful, with Generative AI.
 
 # Result
